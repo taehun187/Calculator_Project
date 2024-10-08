@@ -1,6 +1,7 @@
 # Taehun Calculator
 
 Taehun Calculator는 16진수(HEX)와 10진수(DEC)를 변환하고 계산할 수 있는 웹 기반 계산기입니다.
+HTML과 CSS, Javascript를 이용하여 맥북 계산기의 디자인을 참고하여 만들어보았습니다.
 
 ## 주요 기능
 - **HEX 모드**: A~F 문자를 포함한 16진수 연산.
